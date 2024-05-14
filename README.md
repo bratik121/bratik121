@@ -45,7 +45,7 @@ I am eager to apply my knowledge in real-world projects and contribute to a team
 ## My GitHub Activity 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bratik121&show_icons=true&theme=friendly-dark" alt="Bryant's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=bratik121&show_icons=true&theme=vision-friendly-dark" alt="Bryant's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bratik121&theme=vision-friendly-dark" alt="Bryant's GitHub Streak">
 </p>
 
