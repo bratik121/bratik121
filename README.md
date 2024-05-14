@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryant Mitchell</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bratik121&label=Profile%20views&color=0e75b6&style=flat" alt="bratik121" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratik121" alt="bratik121" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
