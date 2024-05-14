@@ -21,3 +21,24 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+
+## About Me 🌟
+
+Hello! 👋 I'm Bryant Mitchell. I am an enthusiastic and initiative-driven individual with a strong potential for growth. Adaptability and problem-solving are among my core strengths, allowing me to thrive in dynamic environments.
+
+As I near the completion of my Computer Engineering degree at Universidad Católica Andrés Bello (UCAB), my professional aim is to enhance my skills as a developer and web programmer. I'm deeply committed to producing software that not only meets high performance standards but also delivers an outstanding user experience.
+
+I am eager to apply my knowledge in real-world projects and contribute to a team that values innovation and quality. I look forward to making a positive impact in the tech industry!
+
+
+## Contact Me 📫
+
+<p align="center">
+  <a href="mailto:bryant.mitchell.0720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bryant.mitchell.0720%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/bryant-mckale-mitchell-cisneros-a59717204/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
